@@ -1,7 +1,7 @@
-import GameOverPage from './gameOverPage/GameOverPage';
-import WinPage from './winPage/WinPage';
+import ResultPage from './resultPage/ResultPage';
 import GamePage from './gamePage/GamePage';
 import WelcomePage from './welcomePage/WelcomePage';
 import LoginPage from './loginPage/LoginPage';
+import NotFoundPage from './notFoundPage/NotFoundPage';
 
-export {GameOverPage, WinPage, GamePage, WelcomePage, LoginPage};
+export {ResultPage, GamePage, WelcomePage, LoginPage, NotFoundPage};

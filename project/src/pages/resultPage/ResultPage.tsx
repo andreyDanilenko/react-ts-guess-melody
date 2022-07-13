@@ -1,6 +1,6 @@
 import React from 'react';
 
-const WinPage = () => (
+const ResultPage = () => (
   <section className="result">
     <div className="result-logout__wrapper">
       <a className="result-logout__link" href="/">Выход</a>
@@ -14,4 +14,4 @@ const WinPage = () => (
   </section>
 );
 
-export default WinPage;
+export default ResultPage;
